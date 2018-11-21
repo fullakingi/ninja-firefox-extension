@@ -7,7 +7,7 @@
   "description": "Kingi's first extension.",
 
   "icons": {
-    "48": "icons/border-48.png"
+    "72": "icons/zoom-icon.png"
   },
 
   "content_scripts": [
